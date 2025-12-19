@@ -1,0 +1,3 @@
+[submodule "submodule001"]
+	path = submodule001
+	url = https://github.com/tom055/piptext.git
