@@ -1,3 +1,6 @@
 [submodule "submodule001"]
 	path = submodule001
 	url = https://github.com/tom055/piptext.git
+[submodule "submodule002"]
+	path = submodule002
+	url = https://github.com/tom055/piptext.git
