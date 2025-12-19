@@ -5,7 +5,8 @@
     {"id":2,"name":"Longitude","unit":"","type":"string"},
     {"id":3,"name":"Latitude","unit":"","type":"string"},
     {"id":4,"name":"Altitude","unit":"m","type":"number"},
-    {"id":5,"name":"Altitude","unit":"m","type":"number"}
+    {"id":5,"name":"Altitude","unit":"m","type":"number"},
+    {"id":6,"name":"Altitude","unit":"m","type":"number"}
   ],
   "M": [
     {"id":1,"name":"Status","unit":"","type":"number"},
